@@ -15,6 +15,11 @@ This project demonstrates the design of a relational database for a movie ticket
 - **Database Client:** MySQL Workbench
 - **Language:** SQL
 
+  ## Future Improvements
+- Validate the SQL schema on a fresh database.
+- Improve concurrent seat-booking validation.
+- Integrate a backend API and frontend.
+
 ## Database Schema
 The database contains the following 11 tables:
 
